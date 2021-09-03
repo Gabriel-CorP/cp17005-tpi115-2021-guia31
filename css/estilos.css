@@ -1,0 +1,15 @@
+body{
+    background-color: #1e1e1e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.cabeceras{
+    color: blanchedalmond;
+    text-align: center;
+}
+.texto{
+    color: blanchedalmond;
+}
+a, li{
+    color: #67cdfe    ;
+    padding: 0.3em;
+}

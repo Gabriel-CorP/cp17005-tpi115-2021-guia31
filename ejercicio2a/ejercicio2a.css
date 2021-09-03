@@ -1,0 +1,9 @@
+/* ejercicio2a.css   CP17005  */
+pais {background-color:blue;}
+departamento { font-family:Comic Sans MS;
+     background-color:darkblue; display:block;} 
+cabecera {color:white; display:block; }
+habitantes {color:white;  display:block;}
+altura {color:white;  display:block;}
+superficie {color:white;  display:block;}
+idh {color:green;  display:block;}

@@ -1,0 +1,15 @@
+/* ejercicio1b.css   CP17005  */
+fichero {background-color:darkred; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+padding: 2em}
+ficha { display:block;
+    padding: 0.3em;
+    
+} 
+nombre {color:white; display:block;} 
+apellido {color:white; display:block;}
+direccion {color:white;  display:block;}
+dui {color:white;  display:block;}
+isss{color:white;  display:block;}
+apf {color:white;  display:block;}

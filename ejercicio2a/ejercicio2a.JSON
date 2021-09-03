@@ -1,0 +1,25 @@
+﻿{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"superficie": "886,2  km²",
+				"idh": "0.710",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Cojutepque",
+				"habitantes": "70,000",
+				"altura": "588 MSNM",
+				"superficie": "756 km²",
+				"idh": "0.640",
+				"_id": "2",
+				"_nombre": "Cuscatlán"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

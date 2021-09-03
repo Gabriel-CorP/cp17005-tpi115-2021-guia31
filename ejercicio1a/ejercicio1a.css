@@ -1,0 +1,12 @@
+/* ejercicio1a.css   CP17005  */
+fichero {background-color:rgb(3, 3, 53); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+padding: 2em}
+ficha { display:block;
+    padding: 0.3em;
+    
+} 
+nombre {color:white; display:block;} 
+apellido {color:white; display:block;}
+direccion {color:white;  display:block;}
